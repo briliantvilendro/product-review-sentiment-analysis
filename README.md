@@ -114,8 +114,8 @@ Karena distribusi data tidak seimbang, evaluasi model tidak hanya menggunakan Ac
 | Model               | Accuracy |
 | ------------------- | -------: |
 | Naive Bayes         |   90.09% |
-| Logistic Regression |   91.37% |
-| Linear SVM          |   91.13% |
+| Logistic Regression |   87.61% |
+| Linear SVM          |   89.92% |
 
 ### Model Terbaik
 
@@ -126,8 +126,8 @@ Karena distribusi data tidak seimbang, evaluasi model tidak hanya menggunakan Ac
 | Metric            |  Score |
 | ----------------- | -----: |
 | Accuracy          | 91.37% |
-| Balanced Accuracy | 62.55% |
-| Macro F1 Score    | 62.43% |
+| Balanced Accuracy | 60.66% |
+| Macro F1 Score    | 60.28% |
 
 ---
 
